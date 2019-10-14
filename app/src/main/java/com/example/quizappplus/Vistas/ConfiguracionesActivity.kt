@@ -1,4 +1,4 @@
-package com.example.quizappplus.Vistas
+    package com.example.quizappplus.Vistas
 
 import android.app.Activity
 import android.content.Intent
